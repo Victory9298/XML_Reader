@@ -1,1 +1,1 @@
-# XML_Reader
+Запуск через jar файл в папке target или корневой Main
